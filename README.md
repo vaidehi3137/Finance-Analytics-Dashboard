@@ -68,30 +68,6 @@ Developed an interactive Excel dashboard that:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add a screenshot here.
-
-Example:
-
-![Finance Dashboard](images/dashboard.png)
-
----
-
-## 📁 Project Structure
-
-```
-Finance-Analytics-Dashboard/
-│
-├── Finance Dashboard.xlsx
-├── README.md
-├── images/
-│   └── dashboard.png
-└── dataset/
-    └── finance_data.xlsx
-```
-
----
 
 ## 🚀 How to Use
 
@@ -114,11 +90,10 @@ Finance-Analytics-Dashboard/
 
 ## 📬 Contact
 
-**Aman Kanthiwar**
+**Vaidehi Mudpalliwar**
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- GitHub: https://github.com/yourusername
-- Email: your@email.com
+ 
+- Email: mudpalliwarvaidehi@email.com
 
 ---
 
